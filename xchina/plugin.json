@@ -8,7 +8,8 @@
     "description": "Đọc truyện trên trang XChina",
     "locale": "zh-CN",
     "type": "chinese_novel",
-    "language": "javascript"
+    "language": "javascript",
+    "tag": "nsfw"
   },
   "script": {
     "home": "home.js",
