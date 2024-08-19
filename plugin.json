@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "Gigia",
+    "description": "hihi🧐"
+  },
+  "data": [
+    {
+      "name": "xchina",
+      "author": "gigia",
+      "path": "https://raw.githubusercontent.com/doangia/lollll/main/xchina/plugin.zip",
+      "version": 1,
+      "source": "https://xchina.biz",
+      "icon": "https://raw.githubusercontent.com/doangia/lollll/main/xchina/icon.png",
+      "description": "Đọc truyện trên trang https://xchina.biz",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }
+  ]
+}
