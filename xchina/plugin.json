@@ -2,7 +2,7 @@
   "metadata": {
     "name": "xchina",
     "author": "giagia",
-    "version": 1,
+    "version": 2,
     "source": "https://xchina.biz",
     "regexp": "(www.)?xchina.biz/fiction/[^/]+.html$",
     "description": "Đọc truyện trên trang XChina",
