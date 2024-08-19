@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "xchina",
+    "author": "giagia",
+    "version": 1,
+    "source": "https://xchina.biz",
+    "regexp": "(www.)?xchina.biz/fiction/[^/]+.html$",
+    "description": "Đọc truyện trên trang XChina",
+    "locale": "zh-CN",
+    "type": "chinese_novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",    
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
