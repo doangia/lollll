@@ -13,7 +13,8 @@
       "icon": "https://raw.githubusercontent.com/doangia/lollll/main/xchina/icon.png",
       "description": "Đọc truyện trên trang https://xchina.biz",
       "type": "chinese_novel",
-      "locale": "zh_CN"
+      "locale": "zh_CN",
+      "tag": "nsfw"
     }
   ]
 }
